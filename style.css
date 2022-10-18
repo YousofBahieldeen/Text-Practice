@@ -1,0 +1,27 @@
+.Text{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 0px;
+}
+
+.video-stats{
+    font-family: Arial;
+    font-size: 14px;
+    margin-top: 8px;
+    color: gray;
+}
+
+.video-author{
+    font-family: Arial;
+    color: gray;
+    font-size: 14px;
+}
+
+.video-dis{
+    font-family: Arial;
+    color: gray;
+    font-size: 14px;
+    width: 285px;
+}
